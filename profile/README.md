@@ -13,6 +13,7 @@ I've been coding for more than 2 years now. I've been working on yNotes lately, 
 I'm in my last year of high school and I'm about to study web development next year. One of my hobbies is playing drums and percussions in several bands.
 
 [Github](https://github.com/florian-lefebvre)
+
 [Website](https://florian-lefebvre.dev/)
 
 #### Marc M
@@ -25,7 +26,9 @@ What I like outside coding is watching he... animes... yeah, animes and going ou
 
 Geoloupix is an app but is build on a REST API
 
+
 You can find our website here : [https://geoloupix.fr](https://geoloupix.fr/)
+
 And our documentation here : [https://developers.geoloupix.fr](https://developers.geoloupix.fr/)
 
 ### Fun facts
