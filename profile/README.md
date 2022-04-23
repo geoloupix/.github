@@ -12,9 +12,9 @@ I'm a French self-taught fullstack developer. I enjoy designing and creating bea
 I've been coding for more than 2 years now. I've been working on yNotes lately, a school life mobile application that connects French students to their school services.
 I'm in my last year of high school and I'm about to study web development next year. One of my hobbies is playing drums and percussions in several bands.
 
-[Github](https://github.com/florian-lefebvre)
+My github profile : [github.com/florian-lefebvre](https://github.com/florian-lefebvre)
 
-[Website](https://florian-lefebvre.dev/)
+My Website : [florian-lefebvre.dev](https://florian-lefebvre.dev/)
 
 #### Marc M
 Fuck, hmm,  why can't I just copy past what he just wrote ? As you can guess, I'm a French self-taught backend developer. I hate css and js. I do really hate that shit but thankfully Florian does that for me
