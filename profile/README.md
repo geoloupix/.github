@@ -1,7 +1,5 @@
 ## Geoloupix
 
-Psst, si jamais vous êtes français, on a une partie rédigée spécialement en français juste en bas
-
 ### Introduction
 
 Geoloupix is an app to share your location or specific locations to your friends for free. We (don't) belive our project is different from others and is useful in any cases
