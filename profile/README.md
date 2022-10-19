@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Geoloupix is an app to share your location or specific locations to your friends for free. We (don't) belive our project is different from others and is useful in any cases
+Geoloupix is an app to share your location or specific locations to your friends for free. We (don't) believe our project is different from others and is useful in any cases
 Geoloupix team is composed of 2 french young and talented devs :
 
 #### Florian L
