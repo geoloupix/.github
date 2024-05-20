@@ -32,4 +32,5 @@ And our documentation here : [https://developers.geoloupix.fr](https://developer
 ### Fun facts
 
 "PIX" - Florian L
+
 "I need to remove the cringe and insults because I may need this project for my final oral exam" - Marc M, 05/2024
