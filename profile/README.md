@@ -15,7 +15,7 @@ My github profile : [github.com/florian-lefebvre](https://github.com/florian-lef
 My Website : [florian-lefebvre.dev](https://florian-lefebvre.dev/)
 
 #### Marc M
-Hmmm,  why can't I just copy past what he just wrote ? French selAs you can guess, I'm a f-taught backend developer. I hate css and js. I do really hate that shit but thankfully Florian does that for me
+Hmmm,  why can't I just copy past what he just wrote ? As you can guess, I'm a French self-taught backend developer. I hate css and js. I do really hate that shit but thankfully Florian does that for me
 I lack of social interactions and friend for now 4 years and I've been learning PHP and a buch of stuff for now 4 years...
 I don't have a recent project, I missed them and when Florian asked me to help and create this project I said yeah !
 What I like outside coding is watching animes and going out with my friends !
